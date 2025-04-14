@@ -6,6 +6,8 @@ AdsPerClick is an intelligent machine learning solution that estimates the proba
 Whether you're an advertiser, marketer, or data enthusiast, AdsPerClick can help you identify high-value users and deliver more relevant ads, ultimately boosting engagement and conversions.
 
 🔍 Key Features
+
+
 🎯 Click Prediction
 Utilizes historical and behavioral data to predict the likelihood of a user clicking on an advertisement. This prediction helps in identifying target segments and reducing wasted ad spend.
 
@@ -19,10 +21,13 @@ By focusing on users with high click probabilities, advertisers can increase eng
 Easily adaptable to various ad platforms and use-cases. Users can tune hyperparameters, swap models, and integrate with external APIs or real-time data pipelines.
 
 🛠️ Tech Stack
+
 🐍 Programming Language
+
 Python: Powerful, flexible, and widely used for machine learning and data analysis.
 
 📚 Libraries & Frameworks
+
 Pandas: For efficient data manipulation and preprocessing.
 
 NumPy: Core numerical computing support.
@@ -34,11 +39,13 @@ XGBoost: Gradient boosting framework for high-performance predictions.
 Matplotlib & Seaborn: For data visualization and Exploratory Data Analysis (EDA).
 
 🧪 Tools
+
 Jupyter Notebook: Interactive notebooks for writing and visualizing code, results, and analysis.
 
 Git & GitHub: Version control and collaboration.
 
 📌#__Contributions__
+
 Contributions, suggestions, and feature requests are welcome!
 Feel free to fork this repo, open an issue, or submit a pull request.
 
