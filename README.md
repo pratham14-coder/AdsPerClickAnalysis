@@ -1,4 +1,6 @@
-🚀 AdsPerClick – Predict Ad Click Probabilities with Machine Learning
+🚀AdsPerClick – Predict Ad Click Probabilities with Machine Learning
+
+
 AdsPerClick is an intelligent machine learning solution that estimates the probability of users clicking on online advertisements. By leveraging user behavior and contextual data, this project enables data-driven ad targeting to enhance campaign effectiveness and maximize return on investment (ROI).
 
 Whether you're an advertiser, marketer, or data enthusiast, AdsPerClick can help you identify high-value users and deliver more relevant ads, ultimately boosting engagement and conversions.
